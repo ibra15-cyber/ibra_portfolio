@@ -97,11 +97,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "PlacesApp",
-    des: "A full stack project using React, Express and MongoDB",
+    title: "NextJs Dashboard",
+    des: "A full stack project using nextJS and Postgress",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/ibra15-cyber/placeApp",
+    link: "https://nextjs-dashboard-sigma-indol-47.vercel.app/",
   },
 ];
 
