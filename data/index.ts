@@ -77,15 +77,15 @@ export const projects = [
     des: "Final year project developed with python flask. Supervised machine learning algorithms were trained and the best performing model was used to power the model.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/ibra15-cyber/class-automation",
+    link: "https://intellicrop.onrender.com",
   },
   {
     id: 2,
-    title: "An Online Restaurant",
+    title: "Bosphorus: An Online Restaurant",
     des: "Ecommerce App where users can order food.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/zoom-clone",
+    link: "https://bosphorous.onrender.com",
   },
   {
     id: 3,
@@ -93,7 +93,7 @@ export const projects = [
     des: "A medical App Dashboard were doctors can keep track of patient's diagnosis history, list and lab results .",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://github.com/ibra15-cyber/2024-FED-API-SKILLS-TEST-v2-REACT-",
+    link: "https://meddashboard.netlify.app/",
   },
   {
     id: 4,
