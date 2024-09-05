@@ -46,7 +46,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl ">
-            Hi, I&apos;m Ibrahim, a Next.js Developer based in Ghana
+            Hi, I&apos;m Ibrahim, a Software Developer based in Ghana
           </p>
 
           <a href="#about">
