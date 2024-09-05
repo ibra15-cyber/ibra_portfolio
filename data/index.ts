@@ -101,7 +101,7 @@ export const projects = [
     des: "A full stack project using React, Express and MongoDB",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/adrianhajdin/iphone",
+    link: "https://github.com/ibra15-cyber/smart_cultivation",
   },
 ];
 
