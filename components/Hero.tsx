@@ -33,12 +33,12 @@ const Hero = () => {
             Dynamic Web Magic with Next.js{" "}
           </h2>
 
-          <div>
+          {/* <div>
             {" "}
             <h1 className="text-red-600 lg:text-3xl md:text-lg z-10">
               Webpage under construction
             </h1>
-          </div>
+          </div> */}
 
           <TextGenerateEffect
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
