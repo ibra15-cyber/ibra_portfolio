@@ -113,19 +113,21 @@ export const BentoGridItem = ({
 
           {id === 3 && (
             <div className="flex gap-1 lg:gap-3 w-fit absolute -right-3 lg:right-2">
-              <div className="flex flex-col gap-3 lg:gap-3">
-                {["React.js", "Next.js", "TypeScript"].map((item) => (
-                  <span
-                    key={item}
-                    className="py-2 lg:py-1 lg:px-3 px-3 text-xs lg:text-base opacity-50 lg:opacity-100 rounded-lg text-center bg-[#10132E]"
-                  >
-                    {item}
-                  </span>
-                ))}
+              <div className="flex flex-col gap-4 lg:gap-3">
+                {["", "React.js", "Next.js", "TypeScript", "Express Js"].map(
+                  (item) => (
+                    <span
+                      key={item}
+                      className="py-2 lg:py-1 lg:px-3 px-3 text-xs lg:text-base opacity-50 lg:opacity-100 rounded-lg text-center bg-[#10132E]"
+                    >
+                      {item}
+                    </span>
+                  )
+                )}
                 <span className="py-4 px-3 rounded-lg text-center bg-[#10132e]"></span>
               </div>
               <div className="flex flex-col gap-3 lg:gap-3">
-                {["VueJS", "MongoDB", "TypeScript"].map((item) => (
+                {["MySQL", "MongoDB", "Postgres", "Oracle"].map((item) => (
                   <span
                     key={item}
                     className="py-2 lg:py-1 lg:px-3 px-3 text-xs lg:text-base opacity-50 lg:opacity-100 rounded-lg text-center bg-[#10132E]"
