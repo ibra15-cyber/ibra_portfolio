@@ -101,7 +101,7 @@ export const projects = [
     des: "A full stack project using nextJS and Postgress",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://nextjs-dashboard-sigma-indol-47.vercel.app/",
+    link: "https://nextjs-dashboard-g0zkivwoa-ibra15cybers-projects.vercel.app/",
   },
 ];
 
