@@ -71,6 +71,22 @@ export const gridItems = [
 
 export const projects = [
   {
+    id: 5,
+    title: "Place App: A full stack MERN App",
+    des: "Place for people to add places and view place location.",
+    img: "/p2.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    link: "https://placesreact.netlify.app",
+  },
+  {
+    id: 3,
+    title: "Medical Record App",
+    des: "A medical App Dashboard were doctors can keep track of patient's diagnosis history, list and lab results .",
+    img: "/p3.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    link: "https://medicalrecd.netlify.app/",
+  },
+  {
     id: 1,
     title:
       "An Intelligent Crop Recommender System: A Machine Learning Approach",
@@ -87,14 +103,7 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "https://bosphorous.onrender.com",
   },
-  {
-    id: 3,
-    title: "Medical Record App",
-    des: "A medical App Dashboard were doctors can keep track of patient's diagnosis history, list and lab results .",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://medicalrecd.netlify.app/",
-  },
+
   {
     id: 4,
     title: "NextJs Dashboard",
@@ -102,14 +111,6 @@ export const projects = [
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://nextjs-dashboard-g0zkivwoa-ibra15cybers-projects.vercel.app/",
-  },
-  {
-    id: 5,
-    title: "Place App: A full stack MERN App",
-    des: "Place for people to add places and view place location.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://placesreact.netlify.app",
   },
 ];
 
