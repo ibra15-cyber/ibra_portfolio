@@ -87,6 +87,14 @@ export const projects = [
     link: "https://medicalrecd.netlify.app/",
   },
   {
+    id: 6,
+    title: "React Landing Page",
+    des: "A Landing page created with react and tailwind css.",
+    img: "/p4.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    link: "https://landnpage.netlify.app/",
+  },
+  {
     id: 1,
     title:
       "An Intelligent Crop Recommender System: A Machine Learning Approach",
