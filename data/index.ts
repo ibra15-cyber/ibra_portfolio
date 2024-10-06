@@ -82,7 +82,7 @@ export const projects = [
     id: 3,
     title: "Medical Record App",
     des: "A medical App Dashboard were doctors can keep track of patient's diagnosis history, list and lab results .",
-    img: "/p3.svg",
+    img: "/Med.PNG",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "https://medicalrecd.netlify.app/",
   },
