@@ -74,7 +74,7 @@ export const projects = [
     id: 5,
     title: "Place App: A full stack MERN App",
     des: "Place for people to add places and view place location.",
-    img: "/place.png",
+    img: "/place.PNG",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "https://placesreact.netlify.app",
   },
